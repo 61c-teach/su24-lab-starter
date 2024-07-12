@@ -112,12 +112,14 @@
     <comp lib="0" loc="(170,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
     <comp lib="0" loc="(660,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
   </circuit>
   <circuit name="rot2">
@@ -139,12 +141,14 @@
     <comp lib="0" loc="(170,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
     <comp lib="0" loc="(660,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
   </circuit>
   <circuit name="rot4">
@@ -166,12 +170,14 @@
     <comp lib="0" loc="(170,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
     <comp lib="0" loc="(660,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
   </circuit>
   <circuit name="rot8">
@@ -193,12 +199,14 @@
     <comp lib="0" loc="(170,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
     <comp lib="0" loc="(660,80)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
       <a name="width" val="16"/>
+      <a name="locked" val="true"/>
     </comp>
   </circuit>
 </project>

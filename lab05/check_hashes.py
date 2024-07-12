@@ -9,9 +9,9 @@ starter_file_hashes = {
     "tests/ex2-test.circ": "c8132dd333192b2f21d972b95d0081ba",
     "tests/ex3-test.circ": "0ad02b354c5af8e3ef9095402cc0569b",
     "tests/ex4-test.circ": "367a76692971ee0f76d853f595ccc0eb",
-    "tests/out/ex2-test.ref": "e3be1ff17322a030163fb16e845813fb",
-    "tests/out/ex3-test.ref": "de7d2e4f16994ee95db85a99a4472b5a",
-    "tests/out/ex4-test.ref": "4c9bd8cd6ea7264643a22fd84578d34d",
+    "tests/out/ex2-test.ref": "79a531baaf1d6f2bc8ea15326cf3b4b7",
+    "tests/out/ex3-test.ref": "a672e4541824677d50216f3d36724f7f",
+    "tests/out/ex4-test.ref": "d8e069b3b4d479c2cb9967206dfd9f06",
 }
 
 
