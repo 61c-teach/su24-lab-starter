@@ -62,7 +62,7 @@ class TestCase:
                     "-jar",
                     logisim_path,
                     "-tty",
-                    "table,binary,csv",
+                    "table,binary,tabs",
                     self.get_circ_path(),
                 ],
                 stdout=subprocess.PIPE,
