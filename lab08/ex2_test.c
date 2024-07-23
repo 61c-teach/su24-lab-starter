@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <omp.h>
-#include "ex1.h"
+#include "ex2.h"
 
 /* -------------------------------Utilties, Do Not Modify------------------------------*/
 double* gen_array(int n) {
