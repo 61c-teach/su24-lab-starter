@@ -1,5 +1,5 @@
-#ifndef EX1_H
-#define EX1_H
+#ifndef EX2_H
+#define EX2_H
 
 #include <math.h>
 #include <omp.h>

@@ -1,4 +1,4 @@
-#include "ex1.h"
+#include "ex2.h"
 
 double dotp_naive(double* x, double* y, int arr_size) {
     double global_sum = 0.0;
