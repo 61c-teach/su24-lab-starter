@@ -5,26 +5,26 @@
 // Struct definitions can be used to declare a struct variable within your program
 // Struct definitions are typically done outside of a function
 struct Student {
-    int id;
-    char* name;
+    char* id;
+    int name;
 };
 
 int main() {
   // TODO: declare a variable student of type struct Student
   // Note: this struct is stored on the stack
-  ________________ student;
+  struct Student student;
 
   // TODO: print out the size of a struct Student
   // While this may seem out of place now, it will be useful in the future!
   // Hint: there's an operator that can calculate this for you!
-  printf("Size of a struct Student: %lu bytes\n", ______);
+  printf("Size of a struct Student: %lu bytes\n", sizeof(student));
 
   // TODO: set student's id field to 5
   // Hint: the dot notation accesses a struct's fields
-  ______.______ = 5;
+  student.name = 5;
 
   // TODO: print out student's id field
-  printf("Student's ID: %d\n", ______);
+  printf("Student's ID: %d\n", student.name);
 
   return 0;
 }

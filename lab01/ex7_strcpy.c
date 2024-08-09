@@ -5,13 +5,13 @@
 int main() {
   // TODO: Allocate memory to store the string "hello"
   // You may use your solution from a previous exercise;
-  ______ message[______];
-  ______ = 'h';
-  ______ = 'e';
-  ______ = 'l';
-  ______ = 'l';
-  ______ = 'o';
-  ______ = ______;
+  char message[6];
+  message[0] = 'h';
+  message[1] = 'e';
+  message[2] = 'l';
+  message[3] = 'l';
+  message[4] = 'o';
+  message[5] = '\0';
 
   // Print out the value before we change message
   printf("Before copying: %s\n", message);
@@ -21,7 +21,7 @@ int main() {
 
   // TODO: Copy the string in long_message to message
   // NOTE: This file is supposed to crash when you run it. You will be fixing this in another file.
-  strcpy(______, ______);
+  strcpy(message, long_message);
 
   // Print out the value after we change message
   printf("After copying: %s\n", message);
